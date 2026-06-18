@@ -1,4 +1,5 @@
 ## Hi there 👋
+Former teacher turned software engineer. I care about great interfaces, strong systems, and technology that empowers people to learn and do their best work.
 
 <!--
 **Toemsl/Toemsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
